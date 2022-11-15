@@ -1,0 +1,37 @@
+body {
+    background-color: #000020;
+    color: #fff;
+}
+.content__shows {
+    width: 85%;
+    margin: auto;
+}
+.card__show {
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+}
+.card__show__img {
+    display: inline;
+}
+.card__show__text {
+    grid-column: 2/-1;
+    text-align: center;
+}
+.card__show__text h2 {
+    font-size: 4em;
+}
+.card__show__text p {
+    font-size: 2.3em;
+}
+
+.card__show__textDos {
+    grid-column: 1/4;
+    text-align: center;
+}
+.card__show__textDos h2 {
+    font-size: 4em;
+}
+.card__show__textDos p {
+    font-size: 2.3em;
+}

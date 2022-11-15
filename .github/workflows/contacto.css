@@ -1,0 +1,30 @@
+.contacto__content {
+    width: 85%;
+    margin: auto;
+
+    display: grid;
+    
+    grid-template-columns: 400px auto;
+    text-align: center;
+}
+.contacto__titulo {
+    grid-column: 1/-1;
+}
+.contacto__text {
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 0  0 0 100px;
+}
+.contacto__text p a {
+    color: rgb(92, 88, 88);
+}
+.contacto__content p a:hover{
+    border-bottom: 2px #a9a9a9 solid;
+}
+.contacto__img img {
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+
+    -webkit-box-shadow: 4px 4px 5px #a7a7a7;
+    -moz-box-shadow: 2px 2px 5px #a7a7a7;
+}
