@@ -20,5 +20,5 @@ $asunto = 'Contacto - Mago Asensio';
 
 mail($para, $asunto, utf8_decode($message), $header);
 
-header("Location:index.html");
+header("Location:https://magoasensio.github.io");
 ?>
