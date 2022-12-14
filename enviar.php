@@ -1,24 +1,22 @@
 <?php
-$name = $_POST['name'];
-$mail = $_POST['mail'];
-$phone = $_POST['phone'];
-$message = $_POST['message'];
+$nombre = $_POST['nombre'];
+$mail = $_POST['email'];
+$empresa = $_POST['mensaje'];
 
 $header = 'From: ' . $mail . " \r\n";
 $header .= "X-Mailer: PHP/" . phpversion() . " \r\n";
 $header .= "Mime-Version: 1.0 \r\n";
 $header .= "Content-Type: text/plain";
 
-$message = "Este mensaje fue enviado por: " . $name . " \r\n";
-$message .= "Su e-mail es: " . $mail . " \r\n";
-$message .= "Teléfono de contacto: " . $phone . " \r\n";
-$message .= "Mensaje: " . $_POST['message'] . " \r\n";
-$message .= "Enviado el: " . date('d/m/Y', time());
+$mensaje = "Este mensaje fue enviado por " . $nombre . ",\r\n";
+$mensaje .= "Su e-mail es: " . $mail . " \r\n";
+$mensaje .= "Mensaje: " . $_POST['mensaje'] . " \r\n";
+$mensaje .= "Enviado el " . date('d/m/Y', time());
 
 $para = 'asensiomago@gmail.com';
-$asunto = 'Contacto - Mago Asensio';
+$asunto = 'Mago Asensio - Contacto';
 
-mail($para, $asunto, utf8_decode($message), $header);
+mail($para, $asunto, utf8_decode($mensaje), $header);
 
-header("Location:https://magoasensio.github.io");
+header("Location:index.html");
 ?>
