@@ -23,7 +23,7 @@
         
         <div class="nav__content">
         <div class="nav__left">
-            <div class="nav__item --nav__activo"><a href="index2.html">Inicio</a></div>
+            <div class="nav__item --nav__activo"><a href="index.html">Inicio</a></div>
             <div class="nav__item"><a href="sobreMi.html">Sobre mí</a></div>
             <div class="nav__item"><a href="shows.html">Shows</a></div>
         </div>
@@ -69,8 +69,7 @@
         </div>
     </section>
     <!--end section logos-->
-
-    <!--MORE-->
+<!--MORE-->
     <main class="content">
         <!--shows-->
         <div class="shows__img">
@@ -86,8 +85,7 @@
                     <div class="btn"><a href="shows.html"><p>VER MIS SHOWS DE MAGIA</p></a></div>
                 </div>
         </div>
-
-        <!--quien soy-->
+<!--quien soy-->
         <div class="about__text" id="indexTextoDos">
             <h2>¿QUIÉN SOY?</h2>
             <p class="text__center">
