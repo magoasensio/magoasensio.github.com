@@ -23,7 +23,7 @@
         
         <div class="nav__content">
         <div class="nav__left">
-            <div class="nav__item --nav__activo"><a href="index.html">Inicio</a></div>
+            <div class="nav__item --nav__activo"><a href="index2.html">Inicio</a></div>
             <div class="nav__item"><a href="sobreMi.html">Sobre mí</a></div>
             <div class="nav__item"><a href="shows.html">Shows</a></div>
         </div>
