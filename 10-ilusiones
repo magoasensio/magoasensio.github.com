@@ -291,7 +291,7 @@ ga('send', 'pageview');
     <nav class="nav-primary header__menu">
         <div class="header__menu-container container">
             <div class="brand header__logo header__logo--img">
-              <a href="https://maglari.com/es/"><img width="73" height="90" src="https://maglari.com/wp2016/wp-content/uploads/2016/12/logo-mag-lari-blanc-73x90.png" class="attachment-lari-logo size-lari-logo" alt="" decoding="async" loading="lazy" srcset="https://maglari.com/wp2016/wp-content/uploads/2016/12/logo-mag-lari-blanc-73x90.png 73w, https://maglari.com/wp2016/wp-content/uploads/2016/12/logo-mag-lari-blanc.png 138w" sizes="(max-width: 73px) 100vw, 73px" />              </a>
+              <a href="https://maglari.com/es/"><img width="73" height="90" src="brandmago.png" class="attachment-lari-logo size-lari-logo" alt="" decoding="async" loading="lazy" srcset="brandmago.png 73w, brandmago.png 138w" sizes="(max-width: 73px) 100vw, 73px" />              </a>
             </div>
 
 
