@@ -15,19 +15,22 @@
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Contacto - Mago Asensio</title>
-	<link rel="canonical" href="https://magoasensio.github.io/contacto.html" />
-	<meta property="og:locale" content="ES" />
+	<title>Sobre mi - Mago Asensio</title>
+	<link rel="canonical" href="https://magoasensio.github.io/soreprendiendo.html" />
+	<meta property="og:locale" content="ca_ES" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Contacteo - Mago Asensio" />
-	<meta property="og:description" content="Si quieres contactar con el Mago Asensio, envia&#8217;nos tus datos y te responderemos lo antes posible. Muchas Gracias. &nbsp; Contacto: Samuel Asensio asensiomago@gmail.com / " />
-	<meta property="og:url" content="https://maglari.com/contacte/" />
+	<meta property="og:title" content="Sobre mi - Mago Asensio" />
+	<meta property="og:url" content="https://maglari.com/espectacle/strafalari/" />
 	<meta property="og:site_name" content="Mag Lari" />
-	<meta property="article:modified_time" content="2020-07-02T09:08:48+00:00" />
+	<meta property="article:modified_time" content="2022-10-25T08:18:42+00:00" />
+	<meta property="og:image" content="https://maglari.com/wp2016/wp-content/uploads/2022/10/Cartell-Mag-Lari-Strafalari-web.jpg" />
+	<meta property="og:image:width" content="500" />
+	<meta property="og:image:height" content="707" />
+	<meta property="og:image:type" content="image/jpeg" />
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://maglari.com/#website","url":"https://maglari.com/","name":"Mag Lari","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://maglari.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ca-ES"},{"@type":"WebPage","@id":"https://maglari.com/contacte/#webpage","url":"https://maglari.com/contacte/","name":"Contacte - Mag Lari","isPartOf":{"@id":"https://maglari.com/#website"},"datePublished":"2016-12-01T09:09:30+00:00","dateModified":"2020-07-02T09:08:48+00:00","breadcrumb":{"@id":"https://maglari.com/contacte/#breadcrumb"},"inLanguage":"ca-ES","potentialAction":[{"@type":"ReadAction","target":[["https://maglari.com/contacte/"]]}]},{"@type":"BreadcrumbList","@id":"https://maglari.com/contacte/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://maglari.com/"},{"@type":"ListItem","position":2,"name":"Contacte"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://maglari.com/#website","url":"https://maglari.com/","name":"Mag Lari","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://maglari.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ca-ES"},{"@type":"ImageObject","inLanguage":"ca-ES","@id":"https://maglari.com/espectacle/strafalari/#primaryimage","url":"https://maglari.com/wp2016/wp-content/uploads/2022/10/Cartell-Mag-Lari-Strafalari-web.jpg","contentUrl":"https://maglari.com/wp2016/wp-content/uploads/2022/10/Cartell-Mag-Lari-Strafalari-web.jpg","width":500,"height":707,"caption":"Cartell StrafaLari Mag Lari"},{"@type":"WebPage","@id":"https://maglari.com/espectacle/strafalari/#webpage","url":"https://maglari.com/espectacle/strafalari/","name":"Strafalari - Mag Lari","isPartOf":{"@id":"https://maglari.com/#website"},"primaryImageOfPage":{"@id":"https://maglari.com/espectacle/strafalari/#primaryimage"},"datePublished":"2022-10-24T14:14:31+00:00","dateModified":"2022-10-25T08:18:42+00:00","breadcrumb":{"@id":"https://maglari.com/espectacle/strafalari/#breadcrumb"},"inLanguage":"ca-ES","potentialAction":[{"@type":"ReadAction","target":[["https://maglari.com/espectacle/strafalari/"]]}]},{"@type":"BreadcrumbList","@id":"https://maglari.com/espectacle/strafalari/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://maglari.com/"},{"@type":"ListItem","position":2,"name":"Espectacles","item":"https://maglari.com/shows/"},{"@type":"ListItem","position":3,"name":"Strafalari"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -108,16 +111,16 @@ var EM = {"ajaxurl":"https:\/\/maglari.com\/wp2016\/wp-admin\/admin-ajax.php","l
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://maglari.com/wp2016/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.99912' id='events-manager-js'></script>
-<link rel="https://api.w.org/" href="https://maglari.com/wp-json/" /><link rel="alternate" type="application/json" href="https://maglari.com/wp-json/wp/v2/pages/49" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://maglari.com/wp2016/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://maglari.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://maglari.com/wp2016/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://maglari.com/wp2016/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.1.1" />
-<link rel='shortlink' href='https://maglari.com/?p=49' />
-<link rel="alternate" type="application/json+oembed" href="https://maglari.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmaglari.com%2Fcontacte%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://maglari.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmaglari.com%2Fcontacte%2F&#038;format=xml" />
+<link rel='shortlink' href='https://maglari.com/?p=1661' />
+<link rel="alternate" type="application/json+oembed" href="https://maglari.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmaglari.com%2Fespectacle%2Fstrafalari%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://maglari.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmaglari.com%2Fespectacle%2Fstrafalari%2F&#038;format=xml" />
 <meta name="generator" content="qTranslate-XT 3.12.0" />
-<link hreflang="x-default" href="https://maglari.com/contacte/" rel="alternate" />
-<link hreflang="ca" href="https://maglari.com/contacte/" rel="alternate" />
-<link hreflang="es" href="https://maglari.com/es/contacto/" rel="alternate" />
+<link hreflang="x-default" href="https://maglari.com/espectacle/strafalari/" rel="alternate" />
+<link hreflang="ca" href="https://maglari.com/espectacle/strafalari/" rel="alternate" />
+<link hreflang="es" href="https://maglari.com/es/espectaculo/strafalari/" rel="alternate" />
 
         <style>
             
@@ -286,7 +289,7 @@ ga('send', 'pageview');
 <link rel="apple-touch-icon" href="https://maglari.com/wp2016/wp-content/uploads/2021/11/cropped-Favicon-Maglari-180x180.png" />
 <meta name="msapplication-TileImage" content="https://maglari.com/wp2016/wp-content/uploads/2021/11/cropped-Favicon-Maglari-270x270.png" />
 </head>
-  <body class="page-template-default page page-id-49 contacte ca">
+  <body class="lari-espectacle-template-default single single-lari-espectacle postid-1661 strafalari ca">
 
     <!--[if IE]>
       <div class="alert alert-warning">
@@ -302,7 +305,7 @@ ga('send', 'pageview');
             </div>
 
 
-            <ul id="menu-menu-espectacles" class="nav header__nav nav--primary"><li id="menu-item-1662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1662"><a href="https://maglari.com/espectacle/strafalari/">Strafalari</a></li>
+            <ul id="menu-menu-espectacles" class="nav header__nav nav--primary"><li id="menu-item-1662" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1662"><a href="https://maglari.com/espectacle/strafalari/" aria-current="page">Strafalari</a></li>
 <li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-lari-espectacle menu-item-346 espectacle-name--338"><a href="https://maglari.com/espectacle/25-il-lusions/">25 il·lusions</a></li>
 <li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-lari-espectacle menu-item-68 espectacle-name--56"><a href="https://maglari.com/espectacle/una-nit-amb-el-mag-lari/">Una Nit amb el Mag Lari</a></li>
 <li id="menu-item-1680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1680"><a href="https://maglari.com/espectacle/un-nadal-amb-el-mag-lari">Un Nadal amb el Mag Lari</a></li>
@@ -310,15 +313,15 @@ ga('send', 'pageview');
 </ul><ul id="menu-menu-pagines" class="nav header__nav nav--secondary"><li id="menu-item-1575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1575"><a href="https://lacasadelsangels.com">La Casa dels Àngels</a></li>
 <li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="https://maglari.com/escola-de-magia/">Escola de màgia</a></li>
 <li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://maglari.com/els-llibres/">Els Llibres</a></li>
-<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-49 current_page_item menu-item-71"><a href="https://maglari.com/contacte/" aria-current="page">Contacte</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://maglari.com/contacte/">Contacte</a></li>
 </ul><ul id="menu-menu-fixe" class="nav header__nav nav--top"><li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-713"><a href="https://maglari.com/agenda/">Agenda</a></li>
 </ul>
             <div class='header__bottom'>
                                     <div class='lang-selector header__lang'>
                                 
 <ul class="language-chooser language-chooser-custom qtranxs_language_chooser" id="qtranslate-chooser">
-<li class="language-chooser-item language-chooser-item-ca active"><a href="https://maglari.com/ca/contacte/" title="Català (ca)">ca</a></li>
-<li class="language-chooser-item language-chooser-item-es"><a href="https://maglari.com/es/contacto/" title="Español (es)">es</a></li>
+<li class="language-chooser-item language-chooser-item-ca active"><a href="https://maglari.com/ca/espectacle/strafalari/" title="Català (ca)">ca</a></li>
+<li class="language-chooser-item language-chooser-item-es"><a href="https://maglari.com/es/espectaculo/strafalari/" title="Español (es)">es</a></li>
 </ul><div class="qtranxs_widget_end"></div>
                         </div>
                                 <div class='header__social'>
@@ -349,41 +352,26 @@ ga('send', 'pageview');
     <div class="wrap container" role="document">
       <div class="content row">
         <main class="main">
-              
-<div class="page-header entry-header">
-  <h1 class="page-title entry-title">Contacte</h1>
-</div>
-    <div class='page-main entry-main'>
-        <div class='page-content entry-content'>
-	<p>Si vols contactar amb el Mag Lari, envia&#8217;ns les teves dades i et respondrem el més aviat possible.<br />
-Moltes gràcies.</p>
-<div role="form" class="wpcf7" id="wpcf7-f139-p49-o1" lang="ca" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/contacte/#wpcf7-f139-p49-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="139" />
-<input type="hidden" name="_wpcf7_version" value="5.5.6.1" />
-<input type="hidden" name="_wpcf7_locale" value="ca" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f139-p49-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="49" />
-<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-</div>
-<p><label> Nom i Cognoms (obligatori)<br />
-    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
-<p><label> Correu electrònic (obligatori)<br />
-    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
-<p><label> Telèfon<br />
-    <span class="wpcf7-form-control-wrap tel-number"><input type="tel" name="tel-number" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" /></span> </label></p>
-<p><label> Assumpte<br />
-    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </label></p>
-<p><label> Missatge (obligatori)<br />
-    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea></span> </label></p>
-<p><input type="submit" value="Enviar" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
-<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
-<p>&nbsp;</p>
-<p>Contacto: Samuel Asensio <a href="mailto:asensiomago@gmail.com">asensiomago@gmail.com</a> 
+          
+    <article class="single-post post-1661 lari-espectacle type-lari-espectacle status-publish has-post-thumbnail hentry">
+        <header class="post-header entry-header">
+            <h1 class="post-title entry-title espectacle-name espectacle-name--1661">Sobre mi</h1>
+                    </header>
+        <div class='post-main entry-main'>
+            
+<div id="lipsum">
 
-    </div><!-- / page-main -->
+                                    <aside class='espectacle-sidebar sidebar'>
+                        <section class="widget espectacle-widget black-studio-tinymce-2 widget_black_studio_tinymce"><div class="textwidget"><p><strong>Mago Asensio (Samuel Asensio Sanchez, Barcelona 1973) </strong> es ilusionista desde hace mas de 5 años. Su devocion es la magia y por ahora lo trata como un hobbie y una pasion mas.</p>
+<p>Contacto: asensiomago@gmail.com</p>
+<p>Discord: Mago Asensio#0588</p>
+<p>Premsa y Comunicación: samuelasensio9@gmail.com</p>
+</div></section>                    </aside>
+                            </div>
+        </div>
+        <footer>
+                    </footer>
+            </article>
         </main><!-- /.main -->
               </div><!-- /.content -->
     </div><!-- /.wrap -->
@@ -398,8 +386,8 @@ Moltes gràcies.</p>
       <div class="moove-gdpr-info-bar-content">
         
 <div class="moove-gdpr-cookie-notice">
-  <p>Utilizamos cookies para darte una mejor experiencia en nuestra web. Si lo deseas, <a href="https://magoasensio.github.io/aviso-legal">puedes consultar más información</a>.</p>
-
+  <p>Utilizamos cookies para darte una mejor experiencia en nuestra web. Si lo deseas, <a href="#">puedes consultar más información</a>.</p>
+<p>Utilitzem cookies per donar-te una millor experiència a la nostra web. Si ho desitges, <a href="#">pots consultar més informació</a>.</p>
 </div>
 <!--  .moove-gdpr-cookie-notice -->        
 <div class="moove-gdpr-button-holder">
@@ -421,15 +409,15 @@ var wpcf7 = {"api":{"root":"https:\/\/maglari.com\/wp-json\/","namespace":"conta
 <script type='text/javascript' src='https://maglari.com/wp2016/wp-content/themes/lari/dist/scripts/main-f10ebfa72e.js' id='sage/js-js'></script>
 <script type='text/javascript' id='moove_gdpr_frontend-js-extra'>
 /* <![CDATA[ */
-var moove_frontend_gdpr_scripts = {"ajaxurl":"https:\/\/maglari.com\/wp2016\/wp-admin\/admin-ajax.php","post_id":"49","plugin_dir":"https:\/\/maglari.com\/wp2016\/wp-content\/plugins\/gdpr-cookie-compliance","show_icons":"all","is_page":"1","strict_init":"1","enabled_default":{"third_party":0,"advanced":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_cs_action":"1","gdpr_scor":"true","wp_lang":"ca"};
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https:\/\/maglari.com\/wp2016\/wp-admin\/admin-ajax.php","post_id":"1661","plugin_dir":"https:\/\/maglari.com\/wp2016\/wp-content\/plugins\/gdpr-cookie-compliance","show_icons":"all","is_page":"","strict_init":"1","enabled_default":{"third_party":0,"advanced":0},"geo_location":"false","force_reload":"false","is_single":"1","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_cs_action":"1","gdpr_scor":"true","wp_lang":"ca"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://maglari.com/wp2016/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=4.8.7' id='moove_gdpr_frontend-js'></script>
 <script type='text/javascript' id='moove_gdpr_frontend-js-after'>
-var gdpr_consent__strict = "true"
-var gdpr_consent__thirdparty = "true"
-var gdpr_consent__advanced = "true"
-var gdpr_consent__cookies = "strict|thirdparty|advanced"
+var gdpr_consent__strict = "false"
+var gdpr_consent__thirdparty = "false"
+var gdpr_consent__advanced = "false"
+var gdpr_consent__cookies = ""
 </script>
 
     
